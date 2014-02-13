@@ -18,6 +18,7 @@ before_action :correct_user, only: [:destroy]
   end
 
   def destroy
+
   end
 
 
